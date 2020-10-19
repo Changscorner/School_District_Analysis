@@ -51,18 +51,18 @@ This will give you an output that looks like this:
 	</picture>
 The picture above is the output with the new data where all of the nineth graders scores have been replaced with a null value.
 The picture below is the output with the old data where nothing has been changed.
-
+	<picture>
 	<img src="https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/district%20analysis%20with%20old%20data.png">
-	
+	</picture>
 As you can see both of these images are almost the same when the percentages are rounded to the tenth degree. The reason for this is because the count of students from Thomas High School that
 are in ninth grade is negligible in regards to the total count of students which is 39,170. There are differences in all the values are within a 0 to 0.5 range.
 
 ###  School Summary
 Next we will take a deeper look into the difference between the old and new data for Thomas High School. Take a look at the both of the photos below:
-
+	<picture>
 	<img src="https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/school%20summary%20old.png">
 	<img src="https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/school%20summary%20new.png">
-	
+	</picture>
 The photo on top is the output with the old data and the one below is for the new data. We are going to specifically look at the data for Thomas High School. If you recall, in the new data we have changed
 the data for all the ninth graders in Thomas High School to a null value while in the old data those values are filled in. The main differences are where they are expected; within the % passing math, % passing Reading, % overall passing, and in the average scores for both.
 While for the average reading scores there is not much difference, the difference in the percentage of students passing math and reading are gigantic. There is an almost 30% difference for all 3 of the categories.
@@ -74,8 +74,9 @@ Using the same photo from above we see that compared to the other schools, Thoma
 
 #### Effects of The Change in Data
 Let's take a look at the effect of this change in data in terms of math and reading scores by grade for each school.
-	
+	<picture>
 	<img src ="https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/math%20and%20reading%20scores%20with%20nan.png">
+	</picture>
 
 The top image is for the reading scores with the new data and the one below is the new data for math scores. As you can see for the nineth graders the grade is set to a null value.
 So there is no information there for us to compare.
