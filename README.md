@@ -47,7 +47,7 @@ Creating a new dataframe for the district summary, I pass all of the count infor
 
 This will give you an output that looks like this:
 
-	<img src="https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/district%20analysis%20with%20new%20data.png">
+	![screenshot](Resources/district analysis with new data.png)
 
 The picture above is the output with the new data where all of the nineth graders scores have been replaced with a null value.
 The picture below is the output with the old data where nothing has been changed.
@@ -60,8 +60,8 @@ are in ninth grade is negligible in regards to the total count of students which
 ###  School Summary
 Next we will take a deeper look into the difference between the old and new data for Thomas High School. Take a look at the both of the photos below:
 
-	<img src="https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/school%20summary%20old.png">
-	<img src="https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/school%20summary%20new.png">
+	<img src = "https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/school%20summary%20old.png">
+	<img src = "https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/school%20summary%20new.png">
 	
 The photo on top is the output with the old data and the one below is for the new data. We are going to specifically look at the data for Thomas High School. If you recall, in the new data we have changed
 the data for all the ninth graders in Thomas High School to a null value while in the old data those values are filled in. The main differences are where they are expected; within the % passing math, % passing Reading, % overall passing, and in the average scores for both.
