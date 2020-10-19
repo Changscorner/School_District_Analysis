@@ -46,9 +46,9 @@ Creating a new dataframe for the district summary, I pass all of the count infor
 ```
 
 This will give you an output that looks like this:
-
+	<picture>
 	<img src="https://github.com/Changscorner/School_District_Analysis/blob/main/Resources/district%20analysis%20with%20new%20data.png?raw=true">
-
+	</picture>
 The picture above is the output with the new data where all of the nineth graders scores have been replaced with a null value.
 The picture below is the output with the old data where nothing has been changed.
 
